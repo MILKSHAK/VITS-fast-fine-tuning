@@ -11,7 +11,8 @@ scipy
 tensorboard
 torch
 torchvision
-torchaudio
+fsspec==2023.6.0
+torchaudio==2.1.0
 unidecode
 pyopenjtalk-prebuilt
 jamo
