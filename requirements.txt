@@ -9,6 +9,7 @@ librosa==0.9.2
 matplotlib==3.6
 scipy
 tensorboard
+tensorflow-probability==0.23
 torch
 torchvision
 fsspec==2023.6.0
